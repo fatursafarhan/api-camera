@@ -30,5 +30,31 @@
             "name": "Lumix G7",
             "image": "g7.jpg"
         }
-    ]
+    ],
+    "login" : [
+        {
+            "id": 1,
+            "username": "fatursafarhan",
+            "pasword": "lupalagi"
+        }
+    ],
+    "sewa" : [
+        {
+            "id": 1,
+            "namaLengkap": "M.Fatur Safarhan",
+            "tempatLahir": "Sukabumi",
+            "tanggalLahir": "08/04/2003",
+            "Alamat": "Leuwiliang",
+            "nik": 320116623000
+        }
+    ],
+    "detail" : [
+        {
+            "id": 1,
+            "img" : "detail_a7c.jpg",
+            "price" : "Rp. 3000.000/hari",
+            "ket_item" : "Sony A7C Mirorrles Fullframe",
+            "deskripsi" : "Sony A7C Sensor gambar full-frame di A7C memiliki resolusi 24 MP (BSI CMOS) dan telah dibekali peredam goyangan alias In-Body Image Stabilizer dengan tingkat kompensasi yang diklaim mencapai 5-stop."
+        }
+    ],
 }

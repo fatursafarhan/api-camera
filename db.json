@@ -7,8 +7,28 @@
         },
         {
             "id": 2,
-            "name": "Samsung",
-            "image": "sonya7c.jpg"
-        }
+            "name": "Canon 750D",
+            "image": "750d.jpg"
+        },
+         {
+            "id": 3,
+            "name": "Canon EOS M50",
+            "image": "m50.jpg"
+        },
+         {
+            "id": 4,
+            "name": "Canon 1200D",
+            "image": "1200d.jpg"
+        },
+         {
+            "id": 5,
+            "name": "Sony A6000",
+            "image": "a6000.jpg"
+        },
+         {
+            "id": 6,
+            "name": "Lumix G7",
+            "image": "g7.jpg"
+        },
     ]
 }

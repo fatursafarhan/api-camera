@@ -2,11 +2,13 @@
     "camera" : [
         {
             "id": 1,
-            "name": "Sony"
+            "name": "Sony",
+            "image": "sonya7c.jpg"
         },
         {
             "id": 2,
-            "name": "Samsung"
+            "name": "Samsung",
+            "image": "sonya7c.jpg"
         }
     ]
 }

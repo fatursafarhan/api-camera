@@ -90,6 +90,48 @@
             "price" : "Rp. 250.000/hari",
             "ket_item" : "Panasonic Lumix G7 Mirrorless Micro 4/3",
             "deskripsi" : "Panasonic Lumix G7 adalah kamera Mirrorless yang memiliki resolusi 16MP dengan sensor CMOS Micro 4/3 serta dapat merekam vidio hingga 4K 30p"
+        },
+        {
+            "id": 7,
+            "img" : "detail_feiyu.jpg",
+            "price" : "Rp. 200.000/hari",
+            "ket_item" : "Feiyu AK4500 Gimbal Kamera",
+            "deskripsi" : "Fitur Utama Pembaruan muatan Max ke 10.14lb(4.6KG), mudah bekerja dengan DSLR populer dan kamera bioskop. Desain serbaguna yang dapat dilepas, beralih antara pegangan tunggal, posisi underslung, dan kontrol jarak jauh hyperlink terpisah untuk digunakan dalam adegan pemotretan yang lebih berbeda. Desain pelat rilis cepat untuk kamera untuk mendapatkan pengaturan cepat nyata dalam satu detik."
+        },
+        {
+            "id": 8,
+            "img" : "detail_dji.jpg",
+            "price" : "Rp. 15.000/hari",
+            "ket_item" : "DJI Osmo Moble 3 Gimbal Smartphone",
+            "deskripsi" : "Adalah Gimbal Smartphone yang memiliki fitur-fitur keren dengan bobot 405g dan juga sudah dibekali baterai sebesar 2450mAh yang dapat digunakan hingga 15 jam"
+        },
+        {
+            "id": 9,
+            "img" : "detail_rode.jpg",
+            "price" : "Rp. 100.000/hari",
+            "ket_item" : "Rode Video  Micro",
+            "deskripsi" : "VideoMicro adalah mikrofon ringkas yang dirancang untuk meningkatkan kualitas audio video Anda. Ini menggabungkan kapsul mikrofon kondensor kardiooid berkualitas tinggi untuk rekaman audio berkualitas tinggi ketika digunakan dengan berbagai kamera. Mikrofon arah, VideoMicro mengurangi suara periferal yang mengganggu dan berfokus pada audio di depan kamera. Pickup-nya lebih memaafkan daripada mikrofon di kamera RØDE lainnya yang memberikan suara yang lebih alami saat merekam di dalam ruangan."
+        },
+        {
+            "id": 10,
+            "img" : "detail_s60.jpg",
+            "price" : "Rp. 120.000/hari",
+            "ket_item" : "Steadycam S60",
+            "deskripsi" : "Adalah sebuah alat untuk membuat vidio anda menjadi lebih stabil yang memiliki bobot 2.5kg dapat membuat perekaman vidio menjadi lebh smooth "
+        },
+        {
+            "id": 11,
+            "img" : "detail_takara.jpg",
+            "price" : "Rp. 100.000/hari",
+            "ket_item" : "Tripod Takara ECO 233A",
+            "deskripsi" : "Tripod ini memiliki tinggi hingga 1570mm dengan berat 1.10kg dan max load 5kg serta mempunyai fitur fluid head dimana bisa membuat panning kamera menjadi sangat halus"
+        },
+        {
+            "id": 12,
+            "img" : "detail_yongnuo.jpg",
+            "price" : "Rp. 130.000/hari",
+            "ket_item" : "Lensa fix Yongnuo 50mm f1.8",
+            "deskripsi" : "Lensa ini available dengan mounting canon dan nikon. Memiliki fstop 1.8 yang mana akan menghasilkan background blur yang cantik"
         }
         
     ],

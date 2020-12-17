@@ -35,6 +35,42 @@
             "name": "Lumix G7",
             "image": "g7.jpg",
             "id_detail": 6
+        },
+        {
+            "id": 1,
+            "name": "Feiyu AK4500",
+            "image": "feiyu.jpg",
+            "id_detail": 7
+        },
+        {
+            "id": 2,
+            "name": "DJI Osmo Mobile 3",
+            "image": "dji3.jpg",
+            "id_detail": 8
+        },
+        {
+            "id": 3,
+            "name": "Rode Video Micro",
+            "image": "rodemic.jpg",
+            "id_detail": 9
+        },
+        {
+            "id": 4,
+            "name": "Steadycam",
+            "image": "steadycam.jpg",
+            "id_detail": 10
+        },
+        {
+            "id": 5,
+            "name": "Tripod Takaca ECO 233A",
+            "image": "takara.jpg",
+            "id_detail": 11
+        },
+        {
+            "id": 6,
+            "name": "Lensa Yongnuo 50mm 1.8",
+            "image": "yongnuo.jpg",
+            "id_detail": 12
         }
     ],
     "login" : [
@@ -140,43 +176,5 @@
             "deskripsi" : "Lensa ini available dengan mounting canon dan nikon. Memiliki fstop 1.8 yang mana akan menghasilkan background blur yang cantik"
         }
         
-    ],
-    "lainnya" : [
-        {
-            "id": 1,
-            "name": "Feiyu AK4500",
-            "image": "feiyu.jpg",
-            "id_detail": 7
-        },
-        {
-            "id": 2,
-            "name": "DJI Osmo Mobile 3",
-            "image": "dji3.jpg",
-            "id_detail": 8
-        },
-         {
-            "id": 3,
-            "name": "Rode Video Micro",
-            "image": "rodemic.jpg",
-            "id_detail": 9
-        },
-         {
-            "id": 4,
-            "name": "Steadycam",
-            "image": "steadycam.jpg",
-            "id_detail": 10
-        },
-         {
-            "id": 5,
-            "name": "Tripod Takaca ECO 233A",
-            "image": "takara.jpg",
-            "id_detail": 11
-        },
-         {
-            "id": 6,
-            "name": "Lensa Yongnuo 50mm 1.8",
-            "image": "yongnuo.jpg",
-            "id_detail": 12
-        }
     ]
 }

@@ -40,7 +40,7 @@
     "login" : [
         {
             "id": 1,
-            "username": "fatursafarhan",
+            "email": "fatursafarhan@gmail.com",
             "pasword": "lupalagi"
         }
     ],

@@ -92,5 +92,37 @@
             "deskripsi" : "Panasonic Lumix G7 adalah kamera Mirrorless yang memiliki resolusi 16MP dengan sensor CMOS Micro 4/3 serta dapat merekam vidio hingga 4K 30p"
         }
         
+    ],
+    "lainnya" : [
+        {
+            "id": 1,
+            "name": "Feiyu AK4500",
+            "image": "feiyu.jpg"
+        },
+        {
+            "id": 2,
+            "name": "DJI Osmo Mobile 3",
+            "image": "dji3.jpg"
+        },
+         {
+            "id": 3,
+            "name": "Rode Video Micro",
+            "image": "rodemic.jpg"
+        },
+         {
+            "id": 4,
+            "name": "Steadycam",
+            "image": "steadycam.jpg"
+        },
+         {
+            "id": 5,
+            "name": "Tripod Takaca ECO 233A",
+            "image": "takara.jpg"
+        },
+         {
+            "id": 6,
+            "name": "Lensa Yongnuo 50mm 1.8",
+            "image": "yongnuo.jpg"
+        }
     ]
 }

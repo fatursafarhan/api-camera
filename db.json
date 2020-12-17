@@ -55,6 +55,42 @@
             "price" : "Rp. 3000.000/hari",
             "ket_item" : "Sony A7C Mirorrles Fullframe",
             "deskripsi" : "Sony A7C Sensor gambar full-frame di A7C memiliki resolusi 24 MP (BSI CMOS) dan telah dibekali peredam goyangan alias In-Body Image Stabilizer dengan tingkat kompensasi yang diklaim mencapai 5-stop."
+        },
+        {
+            "id": 2,
+            "img" : "detail_750d.jpg",
+            "price" : "Rp. 150.000/hari",
+            "ket_item" : "Canon 750D DSLR APSC",
+            "deskripsi" : "Canon 750D adalah kamera DSLR yang memiliki resolusi 24.2 megapiksel serta dapat merekam vidio dengan resolusi full HD(29,97p/25.00p/23.98p)"
+        },
+        {
+            "id": 3,
+            "img" : "detail_eos50.jpg",
+            "price" : "Rp. 200.000/hari",
+            "ket_item" : "Canon EOS M50 Mirrorles APSC",
+            "deskripsi" : "Canon EOS M50 adalah kamera Mirrorles Entry-level yang dilengkapi dengan sebuah elektronik viewfinder, layar LCD touchscreen yang dapat ditekuk, dial single control serta sebuah sensor berukuran APS-C dan resolusi 24MP, sama seperti kamera mirrorless seri-M Canon lainnya.  Canon EOS M50 juga dilengkapi dengan prosesor mesin gambar terbaru DIGIC 8 dan menawarkan perluasan coverage DUAL-pixel AF, kemampuan rekaman video 4K/24p (dengan crop 1,7x), dan sambungan Wi-Fi, Bluetooth serta NFC."
+        },
+        {
+            "id": 4,
+            "img" : "detail_1200d.png",
+            "price" : "Rp. 120.000/hari",
+            "ket_item" : "Canon 1200D DSLR APSC",
+            "deskripsi" : "Canon 1200D adalah kamera DSLR yang memiliki resolusi resolusi 18MP dengan sensor CMOS, ISO 100-12800, shutter speed 30-1/4000 detik, dan Full HD video."
+        },
+        {
+            "id": 5,
+            "img" : "detail_a6000.jpg",
+            "price" : "Rp. 250.000/hari",
+            "ket_item" : "Sony A6000 Mirrorless APSC",
+            "deskripsi" : "Spesifikasi Sony A6000 dari Segi Resolusi Kamera. Pada bagian dalam, Sony A6000 ini sudah dibekali dengan sensor kamera CMOS. Resolusi yang ditawarkan oleh kamera dari Sony ini juga sangat mumpuni yaitu sebesar 24.3MP. Dengan resolusi sebesar itu, tentu saja kamu bisa merekam video dengan kualitas Full HD atau 1080p."
+        },
+        {
+            "id": 6,
+            "img" : "detail_g7.png",
+            "price" : "Rp. 250.000/hari",
+            "ket_item" : "Panasonic Lumix G7 Mirrorless Micro 4/3",
+            "deskripsi" : "Panasonic Lumix G7 adalah kamera Mirrorless yang memiliki resolusi 16MP dengan sensor CMOS Micro 4/3 serta dapat merekam vidio hingga 4K 30p"
         }
+        
     ]
 }

@@ -37,37 +37,37 @@
             "id_detail": 6
         },
         {
-            "id": 1,
+            "id": 7,
             "name": "Feiyu AK4500",
             "image": "feiyu.jpg",
             "id_detail": 7
         },
         {
-            "id": 2,
+            "id": 8,
             "name": "DJI Osmo Mobile 3",
             "image": "dji3.jpg",
             "id_detail": 8
         },
         {
-            "id": 3,
+            "id": 9,
             "name": "Rode Video Micro",
             "image": "rodemic.jpg",
             "id_detail": 9
         },
         {
-            "id": 4,
+            "id": 10,
             "name": "Steadycam",
             "image": "steadycam.jpg",
             "id_detail": 10
         },
         {
-            "id": 5,
+            "id": 11,
             "name": "Tripod Takaca ECO 233A",
             "image": "takara.jpg",
             "id_detail": 11
         },
         {
-            "id": 6,
+            "id": 12,
             "name": "Lensa Yongnuo 50mm 1.8",
             "image": "yongnuo.jpg",
             "id_detail": 12

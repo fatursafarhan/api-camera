@@ -22,19 +22,19 @@
             "id": 4,
             "name": "Canon 1200D",
             "image": "1200d.jpg",
-             "id_detail": 4
+            "id_detail": 4
         },
          {
             "id": 5,
             "name": "Sony A6000",
             "image": "a6000.jpg",
-             "id_detail": 5
+            "id_detail": 5
         },
          {
             "id": 6,
             "name": "Lumix G7",
             "image": "g7.jpg",
-             "id_detail": 6
+            "id_detail": 6
         }
     ],
     "login" : [

@@ -3,38 +3,38 @@
         {
             "id": 1,
             "name": "Sony",
-            "image": "sonya7c.jpg"
+            "image": "sonya7c.jpg",
             "id_detail": 1
         },
         {
             "id": 2,
             "name": "Canon 750D",
-            "image": "750d.jpg"
+            "image": "750d.jpg",
             "id_detail": 2
         },
          {
             "id": 3,
             "name": "Canon EOS M50",
-            "image": "m50.jpg"
+            "image": "m50.jpg",
              "id_detail": 3
         },
          {
             "id": 4,
             "name": "Canon 1200D",
-            "image": "1200d.jpg"
-             "id_detail": 5
+            "image": "1200d.jpg",
+             "id_detail": 4
         },
          {
             "id": 5,
             "name": "Sony A6000",
-            "image": "a6000.jpg"
-             "id_detail": 6
+            "image": "a6000.jpg",
+             "id_detail": 5
         },
          {
             "id": 6,
             "name": "Lumix G7",
-            "image": "g7.jpg"
-             "id_detail": 7
+            "image": "g7.jpg",
+             "id_detail": 6
         }
     ],
     "login" : [
@@ -145,25 +145,25 @@
         {
             "id": 1,
             "name": "Feiyu AK4500",
-            "image": "feiyu.jpg"
+            "image": "feiyu.jpg",
             "id_detail": 7
         },
         {
             "id": 2,
             "name": "DJI Osmo Mobile 3",
-            "image": "dji3.jpg"
+            "image": "dji3.jpg",
             "id_detail": 8
         },
          {
             "id": 3,
             "name": "Rode Video Micro",
-            "image": "rodemic.jpg"
+            "image": "rodemic.jpg",
              "id_detail": 9
         },
          {
             "id": 4,
             "name": "Steadycam",
-            "image": "steadycam.jpg"
+            "image": "steadycam.jpg",
              "id_detail": 10
         },
          {
@@ -175,7 +175,7 @@
          {
             "id": 6,
             "name": "Lensa Yongnuo 50mm 1.8",
-            "image": "yongnuo.jpg"
+            "image": "yongnuo.jpg",
              "id_detail": 12
         }
     ]
